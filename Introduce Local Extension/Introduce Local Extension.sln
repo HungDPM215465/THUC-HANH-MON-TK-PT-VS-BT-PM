@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Introduce Local Extension_Refactoring17_Before", "Introduce Local Extension_Refactoring17_Before\Introduce Local Extension_Refactoring17_Before.csproj", "{6AF6892B-2991-42BD-8E6B-5C3E8E07BFF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Introduce Local Extension_Refactoring17_After", "Introduce Local Extension_Refactoring17_After\Introduce Local Extension_Refactoring17_After.csproj", "{5F3431E4-9876-4E14-BB2F-582A03248EE7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6AF6892B-2991-42BD-8E6B-5C3E8E07BFF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AF6892B-2991-42BD-8E6B-5C3E8E07BFF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AF6892B-2991-42BD-8E6B-5C3E8E07BFF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AF6892B-2991-42BD-8E6B-5C3E8E07BFF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F3431E4-9876-4E14-BB2F-582A03248EE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F3431E4-9876-4E14-BB2F-582A03248EE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F3431E4-9876-4E14-BB2F-582A03248EE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F3431E4-9876-4E14-BB2F-582A03248EE7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D51456D6-9DC1-4926-A2D2-398ADB787517}
+	EndGlobalSection
+EndGlobal

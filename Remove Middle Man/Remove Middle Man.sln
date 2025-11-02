@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remove Middle Man_Refactoring15_Before", "Remove Middle Man_Refactoring15_Before\Remove Middle Man_Refactoring15_Before.csproj", "{B6E7B594-D32B-49A5-A11D-05B78263ADCC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remove Middle Man_Refactoring15_After", "Remove Middle Man_Refactoring15_After\Remove Middle Man_Refactoring15_After.csproj", "{784E3A2C-1456-4F68-89F0-110317E4683F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6E7B594-D32B-49A5-A11D-05B78263ADCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6E7B594-D32B-49A5-A11D-05B78263ADCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6E7B594-D32B-49A5-A11D-05B78263ADCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6E7B594-D32B-49A5-A11D-05B78263ADCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{784E3A2C-1456-4F68-89F0-110317E4683F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{784E3A2C-1456-4F68-89F0-110317E4683F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{784E3A2C-1456-4F68-89F0-110317E4683F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{784E3A2C-1456-4F68-89F0-110317E4683F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E5D43A1-3365-4408-BF12-913324D24F73}
+	EndGlobalSection
+EndGlobal

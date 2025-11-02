@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Extract Class_Refactoring12_Before", "Extract Class_Refactoring12_Before\Extract Class_Refactoring12_Before.csproj", "{D51B636D-4211-4E92-8199-22FC1C6CA8B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Extract Class_Refactoring12_After", "Extract Class_Refactoring12_After\Extract Class_Refactoring12_After.csproj", "{A64E1A09-3A8F-45B7-AEF7-FA3F0C2CA72B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D51B636D-4211-4E92-8199-22FC1C6CA8B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D51B636D-4211-4E92-8199-22FC1C6CA8B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D51B636D-4211-4E92-8199-22FC1C6CA8B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D51B636D-4211-4E92-8199-22FC1C6CA8B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A64E1A09-3A8F-45B7-AEF7-FA3F0C2CA72B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A64E1A09-3A8F-45B7-AEF7-FA3F0C2CA72B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A64E1A09-3A8F-45B7-AEF7-FA3F0C2CA72B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A64E1A09-3A8F-45B7-AEF7-FA3F0C2CA72B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {07C1EB36-B5AF-4F3D-802D-724CFE91DC5B}
+	EndGlobalSection
+EndGlobal
