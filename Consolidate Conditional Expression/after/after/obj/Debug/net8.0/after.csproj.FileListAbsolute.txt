@@ -1,0 +1,14 @@
+Z:\Consolidate Conditional Expression\after\after\bin\Debug\net8.0\after.exe
+Z:\Consolidate Conditional Expression\after\after\bin\Debug\net8.0\after.deps.json
+Z:\Consolidate Conditional Expression\after\after\bin\Debug\net8.0\after.runtimeconfig.json
+Z:\Consolidate Conditional Expression\after\after\bin\Debug\net8.0\after.dll
+Z:\Consolidate Conditional Expression\after\after\bin\Debug\net8.0\after.pdb
+Z:\Consolidate Conditional Expression\after\after\obj\Debug\net8.0\after.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Consolidate Conditional Expression\after\after\obj\Debug\net8.0\after.AssemblyInfoInputs.cache
+Z:\Consolidate Conditional Expression\after\after\obj\Debug\net8.0\after.AssemblyInfo.cs
+Z:\Consolidate Conditional Expression\after\after\obj\Debug\net8.0\after.csproj.CoreCompileInputs.cache
+Z:\Consolidate Conditional Expression\after\after\obj\Debug\net8.0\after.dll
+Z:\Consolidate Conditional Expression\after\after\obj\Debug\net8.0\refint\after.dll
+Z:\Consolidate Conditional Expression\after\after\obj\Debug\net8.0\after.pdb
+Z:\Consolidate Conditional Expression\after\after\obj\Debug\net8.0\after.genruntimeconfig.cache
+Z:\Consolidate Conditional Expression\after\after\obj\Debug\net8.0\ref\after.dll
