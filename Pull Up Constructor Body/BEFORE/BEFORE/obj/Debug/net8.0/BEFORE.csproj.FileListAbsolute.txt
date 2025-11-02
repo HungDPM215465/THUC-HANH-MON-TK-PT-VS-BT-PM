@@ -1,0 +1,4 @@
+Z:\hungle\Pull Up Constructor Body\BEFORE\BEFORE\obj\Debug\net8.0\BEFORE.GeneratedMSBuildEditorConfig.editorconfig
+Z:\hungle\Pull Up Constructor Body\BEFORE\BEFORE\obj\Debug\net8.0\BEFORE.AssemblyInfoInputs.cache
+Z:\hungle\Pull Up Constructor Body\BEFORE\BEFORE\obj\Debug\net8.0\BEFORE.AssemblyInfo.cs
+Z:\hungle\Pull Up Constructor Body\BEFORE\BEFORE\obj\Debug\net8.0\BEFORE.csproj.CoreCompileInputs.cache
