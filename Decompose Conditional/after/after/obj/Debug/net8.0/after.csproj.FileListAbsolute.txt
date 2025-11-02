@@ -1,0 +1,14 @@
+Z:\Decompose Conditional\after\after\bin\Debug\net8.0\after.exe
+Z:\Decompose Conditional\after\after\bin\Debug\net8.0\after.deps.json
+Z:\Decompose Conditional\after\after\bin\Debug\net8.0\after.runtimeconfig.json
+Z:\Decompose Conditional\after\after\bin\Debug\net8.0\after.dll
+Z:\Decompose Conditional\after\after\bin\Debug\net8.0\after.pdb
+Z:\Decompose Conditional\after\after\obj\Debug\net8.0\after.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Decompose Conditional\after\after\obj\Debug\net8.0\after.AssemblyInfoInputs.cache
+Z:\Decompose Conditional\after\after\obj\Debug\net8.0\after.AssemblyInfo.cs
+Z:\Decompose Conditional\after\after\obj\Debug\net8.0\after.csproj.CoreCompileInputs.cache
+Z:\Decompose Conditional\after\after\obj\Debug\net8.0\after.dll
+Z:\Decompose Conditional\after\after\obj\Debug\net8.0\refint\after.dll
+Z:\Decompose Conditional\after\after\obj\Debug\net8.0\after.pdb
+Z:\Decompose Conditional\after\after\obj\Debug\net8.0\after.genruntimeconfig.cache
+Z:\Decompose Conditional\after\after\obj\Debug\net8.0\ref\after.dll

@@ -1,0 +1,14 @@
+Z:\Decompose Conditional\before\before\bin\Debug\net8.0\before.exe
+Z:\Decompose Conditional\before\before\bin\Debug\net8.0\before.deps.json
+Z:\Decompose Conditional\before\before\bin\Debug\net8.0\before.runtimeconfig.json
+Z:\Decompose Conditional\before\before\bin\Debug\net8.0\before.dll
+Z:\Decompose Conditional\before\before\bin\Debug\net8.0\before.pdb
+Z:\Decompose Conditional\before\before\obj\Debug\net8.0\before.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Decompose Conditional\before\before\obj\Debug\net8.0\before.AssemblyInfoInputs.cache
+Z:\Decompose Conditional\before\before\obj\Debug\net8.0\before.AssemblyInfo.cs
+Z:\Decompose Conditional\before\before\obj\Debug\net8.0\before.csproj.CoreCompileInputs.cache
+Z:\Decompose Conditional\before\before\obj\Debug\net8.0\before.dll
+Z:\Decompose Conditional\before\before\obj\Debug\net8.0\refint\before.dll
+Z:\Decompose Conditional\before\before\obj\Debug\net8.0\before.pdb
+Z:\Decompose Conditional\before\before\obj\Debug\net8.0\before.genruntimeconfig.cache
+Z:\Decompose Conditional\before\before\obj\Debug\net8.0\ref\before.dll

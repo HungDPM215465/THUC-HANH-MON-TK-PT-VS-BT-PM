@@ -1,0 +1,14 @@
+Z:\hungle\Introduce Assertion\AFTER\AFTER\bin\Debug\net8.0\AFTER.exe
+Z:\hungle\Introduce Assertion\AFTER\AFTER\bin\Debug\net8.0\AFTER.deps.json
+Z:\hungle\Introduce Assertion\AFTER\AFTER\bin\Debug\net8.0\AFTER.runtimeconfig.json
+Z:\hungle\Introduce Assertion\AFTER\AFTER\bin\Debug\net8.0\AFTER.dll
+Z:\hungle\Introduce Assertion\AFTER\AFTER\bin\Debug\net8.0\AFTER.pdb
+Z:\hungle\Introduce Assertion\AFTER\AFTER\obj\Debug\net8.0\AFTER.GeneratedMSBuildEditorConfig.editorconfig
+Z:\hungle\Introduce Assertion\AFTER\AFTER\obj\Debug\net8.0\AFTER.AssemblyInfoInputs.cache
+Z:\hungle\Introduce Assertion\AFTER\AFTER\obj\Debug\net8.0\AFTER.AssemblyInfo.cs
+Z:\hungle\Introduce Assertion\AFTER\AFTER\obj\Debug\net8.0\AFTER.csproj.CoreCompileInputs.cache
+Z:\hungle\Introduce Assertion\AFTER\AFTER\obj\Debug\net8.0\AFTER.dll
+Z:\hungle\Introduce Assertion\AFTER\AFTER\obj\Debug\net8.0\refint\AFTER.dll
+Z:\hungle\Introduce Assertion\AFTER\AFTER\obj\Debug\net8.0\AFTER.pdb
+Z:\hungle\Introduce Assertion\AFTER\AFTER\obj\Debug\net8.0\AFTER.genruntimeconfig.cache
+Z:\hungle\Introduce Assertion\AFTER\AFTER\obj\Debug\net8.0\ref\AFTER.dll
