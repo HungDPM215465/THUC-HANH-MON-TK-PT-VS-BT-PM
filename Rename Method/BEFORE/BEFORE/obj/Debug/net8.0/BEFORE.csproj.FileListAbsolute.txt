@@ -1,0 +1,14 @@
+Z:\hungle\Rename Method\BEFORE\BEFORE\bin\Debug\net8.0\BEFORE.exe
+Z:\hungle\Rename Method\BEFORE\BEFORE\bin\Debug\net8.0\BEFORE.deps.json
+Z:\hungle\Rename Method\BEFORE\BEFORE\bin\Debug\net8.0\BEFORE.runtimeconfig.json
+Z:\hungle\Rename Method\BEFORE\BEFORE\bin\Debug\net8.0\BEFORE.dll
+Z:\hungle\Rename Method\BEFORE\BEFORE\bin\Debug\net8.0\BEFORE.pdb
+Z:\hungle\Rename Method\BEFORE\BEFORE\obj\Debug\net8.0\BEFORE.GeneratedMSBuildEditorConfig.editorconfig
+Z:\hungle\Rename Method\BEFORE\BEFORE\obj\Debug\net8.0\BEFORE.AssemblyInfoInputs.cache
+Z:\hungle\Rename Method\BEFORE\BEFORE\obj\Debug\net8.0\BEFORE.AssemblyInfo.cs
+Z:\hungle\Rename Method\BEFORE\BEFORE\obj\Debug\net8.0\BEFORE.csproj.CoreCompileInputs.cache
+Z:\hungle\Rename Method\BEFORE\BEFORE\obj\Debug\net8.0\BEFORE.dll
+Z:\hungle\Rename Method\BEFORE\BEFORE\obj\Debug\net8.0\refint\BEFORE.dll
+Z:\hungle\Rename Method\BEFORE\BEFORE\obj\Debug\net8.0\BEFORE.pdb
+Z:\hungle\Rename Method\BEFORE\BEFORE\obj\Debug\net8.0\BEFORE.genruntimeconfig.cache
+Z:\hungle\Rename Method\BEFORE\BEFORE\obj\Debug\net8.0\ref\BEFORE.dll

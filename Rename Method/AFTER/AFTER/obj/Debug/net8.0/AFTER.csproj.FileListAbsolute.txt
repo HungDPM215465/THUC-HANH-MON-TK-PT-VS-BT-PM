@@ -1,0 +1,14 @@
+Z:\hungle\Rename Method\AFTER\AFTER\bin\Debug\net8.0\AFTER.exe
+Z:\hungle\Rename Method\AFTER\AFTER\bin\Debug\net8.0\AFTER.deps.json
+Z:\hungle\Rename Method\AFTER\AFTER\bin\Debug\net8.0\AFTER.runtimeconfig.json
+Z:\hungle\Rename Method\AFTER\AFTER\bin\Debug\net8.0\AFTER.dll
+Z:\hungle\Rename Method\AFTER\AFTER\bin\Debug\net8.0\AFTER.pdb
+Z:\hungle\Rename Method\AFTER\AFTER\obj\Debug\net8.0\AFTER.GeneratedMSBuildEditorConfig.editorconfig
+Z:\hungle\Rename Method\AFTER\AFTER\obj\Debug\net8.0\AFTER.AssemblyInfoInputs.cache
+Z:\hungle\Rename Method\AFTER\AFTER\obj\Debug\net8.0\AFTER.AssemblyInfo.cs
+Z:\hungle\Rename Method\AFTER\AFTER\obj\Debug\net8.0\AFTER.csproj.CoreCompileInputs.cache
+Z:\hungle\Rename Method\AFTER\AFTER\obj\Debug\net8.0\AFTER.dll
+Z:\hungle\Rename Method\AFTER\AFTER\obj\Debug\net8.0\refint\AFTER.dll
+Z:\hungle\Rename Method\AFTER\AFTER\obj\Debug\net8.0\AFTER.pdb
+Z:\hungle\Rename Method\AFTER\AFTER\obj\Debug\net8.0\AFTER.genruntimeconfig.cache
+Z:\hungle\Rename Method\AFTER\AFTER\obj\Debug\net8.0\ref\AFTER.dll

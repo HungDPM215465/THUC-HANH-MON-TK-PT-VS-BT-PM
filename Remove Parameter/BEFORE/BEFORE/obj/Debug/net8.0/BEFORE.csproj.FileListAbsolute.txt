@@ -1,0 +1,14 @@
+Z:\hungle\Remove Parameter\BEFORE\BEFORE\bin\Debug\net8.0\BEFORE.exe
+Z:\hungle\Remove Parameter\BEFORE\BEFORE\bin\Debug\net8.0\BEFORE.deps.json
+Z:\hungle\Remove Parameter\BEFORE\BEFORE\bin\Debug\net8.0\BEFORE.runtimeconfig.json
+Z:\hungle\Remove Parameter\BEFORE\BEFORE\bin\Debug\net8.0\BEFORE.dll
+Z:\hungle\Remove Parameter\BEFORE\BEFORE\bin\Debug\net8.0\BEFORE.pdb
+Z:\hungle\Remove Parameter\BEFORE\BEFORE\obj\Debug\net8.0\BEFORE.GeneratedMSBuildEditorConfig.editorconfig
+Z:\hungle\Remove Parameter\BEFORE\BEFORE\obj\Debug\net8.0\BEFORE.AssemblyInfoInputs.cache
+Z:\hungle\Remove Parameter\BEFORE\BEFORE\obj\Debug\net8.0\BEFORE.AssemblyInfo.cs
+Z:\hungle\Remove Parameter\BEFORE\BEFORE\obj\Debug\net8.0\BEFORE.csproj.CoreCompileInputs.cache
+Z:\hungle\Remove Parameter\BEFORE\BEFORE\obj\Debug\net8.0\BEFORE.dll
+Z:\hungle\Remove Parameter\BEFORE\BEFORE\obj\Debug\net8.0\refint\BEFORE.dll
+Z:\hungle\Remove Parameter\BEFORE\BEFORE\obj\Debug\net8.0\BEFORE.pdb
+Z:\hungle\Remove Parameter\BEFORE\BEFORE\obj\Debug\net8.0\BEFORE.genruntimeconfig.cache
+Z:\hungle\Remove Parameter\BEFORE\BEFORE\obj\Debug\net8.0\ref\BEFORE.dll
