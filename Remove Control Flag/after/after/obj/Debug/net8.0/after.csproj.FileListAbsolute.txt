@@ -1,0 +1,14 @@
+Z:\Remove Control Flag\after\after\bin\Debug\net8.0\after.exe
+Z:\Remove Control Flag\after\after\bin\Debug\net8.0\after.deps.json
+Z:\Remove Control Flag\after\after\bin\Debug\net8.0\after.runtimeconfig.json
+Z:\Remove Control Flag\after\after\bin\Debug\net8.0\after.dll
+Z:\Remove Control Flag\after\after\bin\Debug\net8.0\after.pdb
+Z:\Remove Control Flag\after\after\obj\Debug\net8.0\after.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Remove Control Flag\after\after\obj\Debug\net8.0\after.AssemblyInfoInputs.cache
+Z:\Remove Control Flag\after\after\obj\Debug\net8.0\after.AssemblyInfo.cs
+Z:\Remove Control Flag\after\after\obj\Debug\net8.0\after.csproj.CoreCompileInputs.cache
+Z:\Remove Control Flag\after\after\obj\Debug\net8.0\after.dll
+Z:\Remove Control Flag\after\after\obj\Debug\net8.0\refint\after.dll
+Z:\Remove Control Flag\after\after\obj\Debug\net8.0\after.pdb
+Z:\Remove Control Flag\after\after\obj\Debug\net8.0\after.genruntimeconfig.cache
+Z:\Remove Control Flag\after\after\obj\Debug\net8.0\ref\after.dll

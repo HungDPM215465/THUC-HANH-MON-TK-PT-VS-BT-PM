@@ -1,0 +1,14 @@
+Z:\Remove Control Flag\before\before\bin\Debug\net8.0\before.exe
+Z:\Remove Control Flag\before\before\bin\Debug\net8.0\before.deps.json
+Z:\Remove Control Flag\before\before\bin\Debug\net8.0\before.runtimeconfig.json
+Z:\Remove Control Flag\before\before\bin\Debug\net8.0\before.dll
+Z:\Remove Control Flag\before\before\bin\Debug\net8.0\before.pdb
+Z:\Remove Control Flag\before\before\obj\Debug\net8.0\before.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Remove Control Flag\before\before\obj\Debug\net8.0\before.AssemblyInfoInputs.cache
+Z:\Remove Control Flag\before\before\obj\Debug\net8.0\before.AssemblyInfo.cs
+Z:\Remove Control Flag\before\before\obj\Debug\net8.0\before.csproj.CoreCompileInputs.cache
+Z:\Remove Control Flag\before\before\obj\Debug\net8.0\before.dll
+Z:\Remove Control Flag\before\before\obj\Debug\net8.0\refint\before.dll
+Z:\Remove Control Flag\before\before\obj\Debug\net8.0\before.pdb
+Z:\Remove Control Flag\before\before\obj\Debug\net8.0\before.genruntimeconfig.cache
+Z:\Remove Control Flag\before\before\obj\Debug\net8.0\ref\before.dll
