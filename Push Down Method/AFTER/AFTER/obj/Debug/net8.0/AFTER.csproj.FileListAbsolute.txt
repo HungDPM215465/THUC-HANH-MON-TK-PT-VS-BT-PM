@@ -1,0 +1,14 @@
+Z:\hungle\Push Down Method\AFTER\AFTER\bin\Debug\net8.0\AFTER.exe
+Z:\hungle\Push Down Method\AFTER\AFTER\bin\Debug\net8.0\AFTER.deps.json
+Z:\hungle\Push Down Method\AFTER\AFTER\bin\Debug\net8.0\AFTER.runtimeconfig.json
+Z:\hungle\Push Down Method\AFTER\AFTER\bin\Debug\net8.0\AFTER.dll
+Z:\hungle\Push Down Method\AFTER\AFTER\bin\Debug\net8.0\AFTER.pdb
+Z:\hungle\Push Down Method\AFTER\AFTER\obj\Debug\net8.0\AFTER.GeneratedMSBuildEditorConfig.editorconfig
+Z:\hungle\Push Down Method\AFTER\AFTER\obj\Debug\net8.0\AFTER.AssemblyInfoInputs.cache
+Z:\hungle\Push Down Method\AFTER\AFTER\obj\Debug\net8.0\AFTER.AssemblyInfo.cs
+Z:\hungle\Push Down Method\AFTER\AFTER\obj\Debug\net8.0\AFTER.csproj.CoreCompileInputs.cache
+Z:\hungle\Push Down Method\AFTER\AFTER\obj\Debug\net8.0\AFTER.dll
+Z:\hungle\Push Down Method\AFTER\AFTER\obj\Debug\net8.0\refint\AFTER.dll
+Z:\hungle\Push Down Method\AFTER\AFTER\obj\Debug\net8.0\AFTER.pdb
+Z:\hungle\Push Down Method\AFTER\AFTER\obj\Debug\net8.0\AFTER.genruntimeconfig.cache
+Z:\hungle\Push Down Method\AFTER\AFTER\obj\Debug\net8.0\ref\AFTER.dll
